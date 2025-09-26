@@ -39,7 +39,6 @@ Currently growing my expertise in **UI/UX design** to create intuitive and visua
 <img align="left" alt="GitHub" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> 
 <img align="left" alt="Postman" width="36px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/> 
 <img align="left" alt="Vite" width="36px" src="https://vitejs.dev/logo.svg"/> 
-<img align="left" alt="Webpack" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg"/>  
 <br/><br/>
 
 

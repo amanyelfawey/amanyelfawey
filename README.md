@@ -49,15 +49,6 @@ When I’m not coding, you’ll probably find me mentoring students, reviewing a
 
 ---
 
-## 📌 Featured Projects
-
-| Project | Description | Live Demo |
-|--------|-------------|-----------|
-| **ERP Dashboard** | A large-scale ERP dashboard with dynamic components and data visualization. | [Live Demo](#) |
-| **E-Commerce Store** | Fully responsive online store with product filtering, cart, and checkout flow. | [Live Demo](#) |
-| **Portfolio Website** | Personal portfolio showcasing projects and skills, built with React & Tailwind. | [Live Demo](#) |
-
----
 
 
 ⭐ **Check out my repositories for more projects!**

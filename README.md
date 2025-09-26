@@ -10,6 +10,7 @@ I’m a Frontend Developer and Programming Instructor passionate about building 
 I specialize in React.js, Next.js, TypeScript, and TailwindCSS, and have hands-on experience working on large ERP systems, dashboards, and e-commerce solutions.
 
 🚀 I’m currently advancing my frontend expertise by learning modern patterns, improving performance, and exploring UI/UX principles to craft intuitive, visually appealing user experiences.
+
 💡 I enjoy creating reusable component libraries, integrating with real APIs, and experimenting with tools like React Query and TypeScript to write clean, maintainable code.
 
 When I’m not coding, you’ll probably find me mentoring students, reviewing assignments, or learning something new to sharpen my skills.

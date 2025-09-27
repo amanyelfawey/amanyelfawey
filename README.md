@@ -1,10 +1,5 @@
 # 👋 Hi, I'm Amany Elfawey  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanyelfawey/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://your-portfolio-link.com)
-
----
-
 ## 💻 About Me
 I’m a Frontend Developer and Programming Instructor passionate about building scalable, user-friendly web applications and helping others grow their coding skills.
 I specialize in React.js, Next.js, TypeScript, and TailwindCSS, and have hands-on experience working on large ERP systems, dashboards, and e-commerce solutions.
